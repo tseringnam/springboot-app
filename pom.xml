@@ -33,5 +33,18 @@
             </plugin>
         </plugins>
     </build>
+    
+    <distributionManagement>
+    <repository>
+        <id>central</id>
+        <name>fc42e4ecd27f-releases</name>
+        <url>http://54.211.241.244:8081/artifactory/maven</url>
+    </repository>
+    <snapshotRepository>
+        <id>snapshots</id>
+        <name>fc42e4ecd27f-snapshots</name>
+        <url>http://54.211.241.244:8081/artifactory/maven</url>
+    </snapshotRepository>
+</distributionManagement>
 
 </project>
