@@ -36,13 +36,13 @@
     <distributionManagement>
     <repository>
         <id>central</id>
-        <name>bded817998a3-releases</name>
-        <url>http://18.205.243.149:8081/artifactory/maven</url>
+        <name>0b08964ca52e-releases</name>
+        <url>http://34.230.74.198:8081/artifactory/maven</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
-        <name>bded817998a3-snapshots</name>
-        <url>http://18.205.243.149:8081/artifactory/maven</url>
+        <name>0b08964ca52e-snapshots</name>
+        <url>http://34.230.74.198:8081/artifactory/maven</url>
     </snapshotRepository>
 </distributionManagement>
 
