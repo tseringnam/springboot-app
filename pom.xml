@@ -33,8 +33,7 @@
             </plugin>
         </plugins>
     </build>
-    
-   <distributionManagement>
+    <distributionManagement>
     <repository>
         <id>central</id>
         <name>bded817998a3-releases</name>
