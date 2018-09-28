@@ -38,12 +38,12 @@
     <repository>
         <id>central</id>
         <name>0b08964ca52e-releases</name>
-        <url>http://54.89.70.180:8081/artifactory/maven</url>
+        <url>http://35.174.166.128:8081/artifactory/maven</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
         <name>0b08964ca52e-snapshots</name>
-        <url>http://54.89.70.180:8081/artifactory/maven</url>
+        <url>http://35.174.166.128:8081/artifactory/maven</url>
     </snapshotRepository>
 </distributionManagement>
 
